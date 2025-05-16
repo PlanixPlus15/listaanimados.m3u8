@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E1_COVER.jpg" group-title="Las aventuras de Tintin", Las aventuras de Tintin - E1 Tintín en América
 https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4
 
